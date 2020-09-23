@@ -1,0 +1,13 @@
+{
+  "name": "meditaion",
+  "displayName": "meditaion",
+  "expo": {
+    "name": "meditaion",
+    "slug": "meditaion",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "packagerOpts": { "config": "metro.config.js", "sourceExts": ["js", "jsx", "svg", "svgx"] }
+  }
+}
